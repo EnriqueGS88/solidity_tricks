@@ -10,3 +10,5 @@
 
 
 require( msg.sender == from || isApprovedForAll([from][msg.sender]) || msg.sender == getApproved[id], "Not Authorized" );
+
+// Source: https://twitter.com/r_ross_campbell/status/1501682607222038532?t=WSCaIXabeoD4tVpa0zpRoA&s=19

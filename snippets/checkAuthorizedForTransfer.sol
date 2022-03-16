@@ -29,3 +29,5 @@ internal view virtual returns ( bool ) {
     address owner = ERC721.ownerOf( tokenId );
     return ( spender == owner || isApprovedForAll( owner, spender ) || getApproved( tokenId ) == spender) ;
 }
+
+// Source: https://twitter.com/vectorized_dev/status/1499014372668379145?t=O9nc4N2w1IlMxMZlQpUXKA&s=19

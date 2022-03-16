@@ -6,7 +6,6 @@
     * instad of address(this).balance
  */
 
- // Source: https://twitter.com/0xKitsune/status/1504149360057147400/photo/1
 
 // Traditional form to check ETH balance of own contract
 // Gas: 148
@@ -24,3 +23,5 @@ function gasBenchmarkSelfBalance( ) external view returns ( uint256 ) {
         return( 0x0, 32 )
     }
 }
+
+// Source: https://twitter.com/0xKitsune/status/1504149360057147400/photo/1
