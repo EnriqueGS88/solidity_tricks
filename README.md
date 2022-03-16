@@ -13,9 +13,11 @@ These snippets replicate the tips shared by:
  - [Transmissions11][transmissions11]
  - [vectorized_dev][vectorized_dev]
  - [r_ross_campbell][vectorized_dev]
+ - [0xKitsune][0xKitsune]
 
 
 [solidity]: https://docs.soliditylang.org/en/v0.8.13/
 [transmissions11]: https://twitter.com/transmissions11
 [vectorized_dev]: https://twitter.com/vectorized_dev
 [r_ross_campbell]: https://twitter.com/r_ross_campbell
+[0xKitsune]: https://twitter.com/0xKitsune
